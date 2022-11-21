@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on software programming in C/C++ and App on SwiftUi<br>👯 I’m looking to collaborate on of on-board software programming<br>🤝 I'm looking for help finding clients <br>🌱 I am currently learning how to use Unity<br>💬 Ask me about what you want on ir8.eu
+🔭 I’m currently working on software programming in C/C++ and App on SwiftUi<br>👯 I’m looking to collaborate on of on-board software programming<br>🤝 I'm looking for help finding clients <br>🌱 I am currently learning how to use Unity<br>💬 Ask me about what you want on <a href="ir8.eu">ir8.eu</a>
 
 
 ## 🌐 Socials:
@@ -10,8 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MathisDev&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MathisDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
