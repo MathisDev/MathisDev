@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I am currently a freelance devops <br>👯 I am looking to collaborate on infrastructure development <br>🌱 I am currently learning at 42 school
-<br>💬 Ask me about what you want on <a href="ir8.eu">ir8.eu</a>
+<br>💬 Ask me about what you want on <a href="http://ir8.eu">ir8.eu</a>
 
 
 ## 🌐 Socials:
