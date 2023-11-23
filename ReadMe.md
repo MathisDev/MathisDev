@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently programing on C/C++ and App on SwiftUi<br>👯 I’m looking to collaborate on of on-board software programming<br>🌱 I am currently learning how to use Unity<br>💬 Ask me about what you want on <a href="ir8.eu">ir8.eu</a>
+🔭 I am currently a freelance devops <br>👯 I am looking to collaborate on infrastructure development <br>🌱 I am currently learning at 42 school
+<br>💬 Ask me about what you want on <a href="ir8.eu">ir8.eu</a>
 
 
 ## 🌐 Socials:
