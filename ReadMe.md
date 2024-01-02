@@ -1,5 +1,5 @@
 # Me:
-I'm currently working on a GPU infrastructure for , training AI models, crypto mining .<br>42 student  . 
+I'm currently working on a GPU infrastructure for , training AI models, crypto mining .<br> <br> 42 student ⛩️
 
 
 ## Socials:
