@@ -10,7 +10,3 @@ I'm currently working on a GPU infrastructure for , training AI models, crypto m
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisDev&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MathisDev&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
