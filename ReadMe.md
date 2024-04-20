@@ -1,5 +1,6 @@
 # Me:
-I'm currently working on a GPU infrastructure for , training AI models, crypto mining .<br> <br> 42 student ⛩️
+DevOps engineer with experience in GPU infrastructure management. Passionate about tech and programming, I strive to improve myself to develop innovative and effective technical solutions. 
+42 student ⛩️
 
 
 ## Socials:
